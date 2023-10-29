@@ -31,7 +31,7 @@ https://i.imgur.com/TiSIGbc.png
 ## Potion advice
 - Use the bastion potions slowly till you get a boosting potion drop. The crystal dusts are then to make Divine ranging potions to maximize your DPS. Either make Divine super defence, use regular super defences or use brews when you run out of bastions. You need at least one method of keeping your def level buffed.
 - Try to conserve the bastion potions as 8 divine bastion doses isn't enough to get a range potion drop if you go through them quickly. Turn the remaining potions into divine bastion potions as soon as you have a sufficient amount of range pot drops.
-
+https://github.com/crab-pancake/gear-discord/blob/main/complete/toa%20loot%20divisor.png
 ## 1+2 hopping method (40 kph)
 For in-depth information pertaining to the world hopping 1+2 method, refer to Petcord https://discord.gg/petcord
 
